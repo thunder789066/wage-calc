@@ -1,0 +1,12 @@
+c:\users\christina\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe.config
+c:\users\christina\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+c:\users\christina\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+c:\users\christina\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.exe
+c:\users\christina\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.pdb
+c:\users\christina\documents\visual studio 2015\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe.config
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.exe
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.pdb
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+C:\Users\Christina\Documents\Visual Studio 2015\0Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.csprojResolveAssemblyReference.cache
